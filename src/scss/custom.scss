@@ -1,0 +1,42 @@
+@import '~bootstrap/scss/functions';
+$font-family-sans-serif:  "Helvetica Neue";
+
+$primary: #FFA500;
+$secondary: #FFCBA4;
+$success: #05DD01;
+$dark: #000000;
+
+
+$spacer: 1rem;
+
+$border-width:3px;
+
+$nav-link-padding-y: 1.688rem;
+$nav-link-padding-x: 3.125rem;
+$nav-link-font-size: 1.125rem;
+
+$btn-padding-y:               1.1rem;
+$btn-padding-x:               3rem;
+$btn-font-family:             'Karma Suture';
+$headings-font-family:        'Karma Suture';
+
+$input-padding-y:                       17px;
+$input-padding-x:                       11px;
+$input-font-family:                     'Karma Suture';
+$input-font-size:                       1rem;
+
+$input-bg:                              transparent;
+
+$input-color:                           inherit;
+$input-border-color:                    inherit;
+
+// $btn-font-size:               $input-btn-font-size;
+// $btn-line-height:             $input-btn-line-height;
+
+// $btn-border-width:            $input-btn-border-width;
+
+// $btn-font-weight:             $font-weight-normal;
+$btn-border-radius:0;
+$input-border-radius:0;
+
+@import '~bootstrap/scss/bootstrap';
